@@ -13,6 +13,8 @@ flask-wtf = "*"
 wtforms = "*"
 flask-moment = "*"
 pymysql = "*"
+flask-bootstrap = "*"
+flask-ckeditor = "*"
 
 [requires]
 python_version = "3.5"
